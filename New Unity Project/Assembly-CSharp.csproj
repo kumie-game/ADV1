@@ -47,10 +47,22 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\CmaeraControiller.cs" />
+     <Compile Include="Assets\Fantasy AI Free Edition\Scripts\AI Scripts\Cull.cs" />
+     <Compile Include="Assets\Fantasy AI Free Edition\Scripts\AI Scripts\DistanceActive.cs" />
+     <Compile Include="Assets\Fantasy AI Free Edition\Scripts\AI Scripts\FreeAI.cs" />
+     <Compile Include="Assets\Fantasy AI Free Edition\Scripts\AI Scripts\Health.cs" />
+     <Compile Include="Assets\Fantasy AI Free Edition\Scripts\Player\AICount.cs" />
+     <Compile Include="Assets\Fantasy AI Free Edition\Scripts\Player\HealthPotion.cs" />
+     <Compile Include="Assets\Fantasy AI Free Edition\Scripts\Player\PlayerController.cs" />
+     <Compile Include="Assets\Ultimate Cannon Tower\Scripts\FlyCamera.cs" />
+     <Compile Include="Assets\Ultimate Cannon Tower\Scripts\Tower_Actions.cs" />
+     <Compile Include="Assets\Ultimate Cannon Tower\Scripts\Tower_Ui_Char_Panel.cs" />
      <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
      <None Include="Assets\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
+     <None Include="Assets\Fantasy AI Free Edition\README.txt" />
      <None Include="Assets\Standard Assets\Environment\Water\Water\Shaders\FXWaterPro.shader" />
+     <None Include="Assets\Fantasy AI Free Edition\Models\SkeletonData\animations.txt" />
      <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
      <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
      <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\WaterInclude.cginc" />

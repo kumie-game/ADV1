@@ -13,7 +13,7 @@ public class CmaeraControiller : MonoBehaviour {
 	void Update () {
 		Vector3 playerPos = this.player.transform.position;
 		transform.position = new Vector3 (
-			playerPos.x, playerPos.y+15, playerPos.z-20);
+			playerPos.x, playerPos.y+15, playerPos.z-23);
 
 		/*Vector3 playerRot = this.player.transform.rotation;
 
